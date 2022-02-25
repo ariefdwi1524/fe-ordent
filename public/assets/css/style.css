@@ -1,0 +1,33 @@
+.box {
+    padding: 30px;
+    border: 1px;
+    margin-bottom: 5%;
+}
+.border {
+    border-radius: 10px;
+}
+
+.boxshadow {
+    box-shadow: 0px 4px rgba(0, 0, 0.15);
+    height: 500px;
+}
+
+i {
+    text-align: center;
+    line-height: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    cursor: pointer;
+    float: right;
+    margin-left: 5%;
+}
+
+.right {
+    float: right;
+}
+
+.pad {
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 10px;
+}
